@@ -1,0 +1,85 @@
+{
+    "countries": [
+      {
+        "id": 1,
+        "countryName": "United States",
+        "capital": "Washington, D.C.",
+        "currency": "US Dollar (USD)",
+        "interestingFact": "The U.S. has the world's largest economy by nominal GDP.",
+        "gdpRank": 1
+      },
+      {
+        "id": 2,
+        "countryName": "China",
+        "capital": "Beijing",
+        "currency": "Renminbi (Yuan - CNY)",
+        "interestingFact": "China is the most populous country in the world.",
+        "gdpRank": 2
+      },
+      {
+        "id": 3,
+        "countryName": "Japan",
+        "capital": "Tokyo",
+        "currency": "Japanese Yen (JPY)",
+        "interestingFact": "Japan is made up of over 6,800 islands.",
+        "gdpRank": 3
+      },
+      {
+        "id": 4,
+        "countryName": "Germany",
+        "capital": "Berlin",
+        "currency": "Euro (EUR)",
+        "interestingFact": "Germany is the largest economy in Europe.",
+        "gdpRank": 4
+      },
+      {
+        "id": 5,
+        "countryName": "India",
+        "capital": "New Delhi",
+        "currency": "Indian Rupee (INR)",
+        "interestingFact": "India is known as the world's largest democracy.",
+        "gdpRank": 5
+      },
+      {
+        "id": 6,
+        "countryName": "United Kingdom",
+        "capital": "London",
+        "currency": "Pound Sterling (GBP)",
+        "interestingFact": "The UK is home to the oldest parliament in the world.",
+        "gdpRank": 6
+      },
+      {
+        "id": 7,
+        "countryName": "France",
+        "capital": "Paris",
+        "currency": "Euro (EUR)",
+        "interestingFact": "France is the most visited country in the world.",
+        "gdpRank": 7
+      },
+      {
+        "id": 8,
+        "countryName": "Italy",
+        "capital": "Rome",
+        "currency": "Euro (EUR)",
+        "interestingFact": "Rome has a country inside it: Vatican City.",
+        "gdpRank": 8
+      },
+      {
+        "id": 9,
+        "countryName": "Brazil",
+        "capital": "Brasília",
+        "currency": "Brazilian Real (BRL)",
+        "interestingFact": "Brazil is home to the Amazon rainforest, the largest in the world.",
+        "gdpRank": 9
+      },
+      {
+        "id": 10,
+        "countryName": "Canada",
+        "capital": "Ottawa",
+        "currency": "Canadian Dollar (CAD)",
+        "interestingFact": "Canada has the longest coastline of any country.",
+        "gdpRank": 10
+      }
+    ]
+  }
+  
